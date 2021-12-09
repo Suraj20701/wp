@@ -1,0 +1,23 @@
+span {
+    color: blue;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+.praise-style1:hover {
+    color: red;
+    font: italic 22px serif;
+}
+
+.praise-style2:hover {
+    color: green;
+    font: bold 22px serif;
+}
+
+.praise-style3:hover {
+    color: purple;
+    font: italic 22px serif;
+}
+
+.underline {
+    text-decoration: underline;
+}
