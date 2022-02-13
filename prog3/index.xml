@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="style.css" type="text/css"?>
+<patients>
+  <patient1>
+     <name>
+       <fname>Kiran</fname>
+       <mname>V</mname>
+       <lname>Patil</lname>
+     </name>
+     <ssn>2022001</ssn>
+     <address>Athani</address>
+     <age>20</age>
+     <room>1</room>
+     <insurance type="primary">
+       <id>20201004</id>
+       <group>02</group>
+     </insurance>
+     <medproblems>nill</medproblems>
+  </patient1>
+   <patient1>
+     <name>
+       <fname>Kiran</fname>
+       <mname>V</mname>
+       <lname>Patil</lname>
+     </name>
+     <ssn>2022001</ssn>
+     <address>Athani</address>
+     <age>20</age>
+     <room>1</room>
+     <insurance type="primary">
+       <id>20201004</id>
+       <group>02</group>
+     </insurance>
+     <medproblems>nill</medproblems>
+  </patient1>
+   <patient1>
+     <name>
+       <fname>Kiran</fname>
+       <mname>V</mname>
+       <lname>Patil</lname>
+     </name>
+     <ssn>2022001</ssn>
+     <address>Athani</address>
+     <age>20</age>
+     <room>1</room>
+     <insurance type="primary">
+       <id>20201004</id>
+       <group>02</group>
+     </insurance>
+     <medproblems>nill</medproblems>
+  </patient1>
+   <patient1>
+     <name>
+       <fname>Kiran</fname>
+       <mname>V</mname>
+       <lname>Patil</lname>
+     </name>
+     <ssn>2022001</ssn>
+     <address>Athani</address>
+     <age>20</age>
+     <room>1</room>
+     <insurance type="primary">
+       <id>20201004</id>
+       <group>02</group>
+     </insurance>
+     <medproblems>nill</medproblems>
+  </patient1>
+
+
+</patients>

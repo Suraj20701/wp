@@ -1,0 +1,14 @@
+patients{
+    display: block;
+    margin: 3%;
+    border: 2px solid black;
+    padding: 2%;
+}
+name{
+    border-top: 2px solid blue;
+}
+name, ssn, address, age, room, insurance, medprolems{
+    display: block;
+    margin: 7px;
+    padding: 2%;
+}
